@@ -4,6 +4,9 @@ As a result app will generate landmarked images or landmarked live video(based o
 
 # Technology Involved
 *Pandas
+
 *Machine Learning(SVC)
+
 *MediaPipe
+
 *OpenCV
